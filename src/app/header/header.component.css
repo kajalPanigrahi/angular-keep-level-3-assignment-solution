@@ -1,0 +1,12 @@
+.keep-c-toggle-view {
+	width: 100%;
+	margin-left: 93%;
+	cursor: pointer;
+}
+
+.mat-toolbar.mat-primary{
+    background: #021479;
+}
+.example-spacer{
+    flex: 1 1 auto;
+}

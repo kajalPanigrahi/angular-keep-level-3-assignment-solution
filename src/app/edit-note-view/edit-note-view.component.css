@@ -1,0 +1,16 @@
+.mat-accordion{
+    margin: 1em;
+}
+
+.form-fields-container{
+    display: flex;
+    flex-direction: column;
+    width: 15vw;
+}
+
+.error-message{
+    color: red;
+    font-size: 1em;
+    display: block;
+    text-align: center;
+}

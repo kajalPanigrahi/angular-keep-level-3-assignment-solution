@@ -1,0 +1,23 @@
+.notes-expansion-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mat-accordion{
+    margin: 1em;
+}
+
+.form-fields-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.error-message{
+    color: red;
+    font-size: 1em;
+    display: block;
+    text-align: center;
+}

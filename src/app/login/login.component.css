@@ -1,0 +1,13 @@
+.login-form{
+    width:20vw;
+    margin:10vh auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.error-message{
+    color: red;
+    font-size: 1em;
+    display: block;
+    text-align: center;
+}
